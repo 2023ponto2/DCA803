@@ -1,0 +1,4 @@
+As expressões de atribuições ilegais são:
+p = i
+i= (*&)j
+q = *p
